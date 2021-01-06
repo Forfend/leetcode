@@ -1,6 +1,6 @@
-#One more repository for [Leetcode](https://leetcode.com/) problems
+# One more repository for [Leetcode](https://leetcode.com/) problems
 
-##Solved problems
+## Solved problems
 
 Title | Difficulty
 ------|-----------
