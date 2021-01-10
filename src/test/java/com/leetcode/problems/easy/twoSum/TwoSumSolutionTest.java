@@ -1,12 +1,13 @@
 package com.leetcode.problems.easy.twoSum;
 
-import junit.framework.TestCase;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-public class TwoSumSolutionTest extends TestCase {
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+public class TwoSumSolutionTest {
 
     @Test
-    public void testTwoSum() {
+    void testTwoSum() {
         TwoSumSolution solution = new TwoSumSolution();
         int[] nums = {2, 7, 11, 15};
         int target = 9;
@@ -16,7 +17,7 @@ public class TwoSumSolutionTest extends TestCase {
     }
 
     @Test
-    public void testTwoSum2() {
+    void testTwoSum2() {
         TwoSumSolution solution = new TwoSumSolution();
         int[] nums = {3, 2, 4};
         int target = 6;
@@ -26,7 +27,7 @@ public class TwoSumSolutionTest extends TestCase {
     }
 
     @Test
-    public void testTwoSum3() {
+    void testTwoSum3() {
         TwoSumSolution solution = new TwoSumSolution();
         int[] nums = {3, 3};
         int target = 6;
