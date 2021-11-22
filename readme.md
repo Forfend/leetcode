@@ -2,8 +2,9 @@
 
 ## Solved problems
 
-Title | Difficulty
-------|-----------
-Two Sum | Easy :heavy_check_mark:
-Reverse Integer | Easy :heavy_check_mark:
-Roman to Integer | Easy :heavy_check_mark:
+Number | Title | Difficulty
+------|---------|------
+1 | Two Sum | Easy :heavy_check_mark:
+7 | Reverse Integer | Easy :heavy_check_mark:
+13 | Roman to Integer | Easy :heavy_check_mark:
+704 | Binary Search | Easy :heavy_check_mark:
