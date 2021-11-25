@@ -8,3 +8,4 @@ Number | Title | Difficulty
 7 | Reverse Integer | Easy :heavy_check_mark:
 13 | Roman to Integer | Easy :heavy_check_mark:
 704 | Binary Search | Easy :heavy_check_mark:
+35  | Search Insert Position | Easy :heavy_check_mark:
