@@ -14,3 +14,4 @@ Number | Title                         | Difficulty
 977 | Squares of sorted array       | Easy :heavy_check_mark:
 283 | Move zeros                    | Easy :heavy_check_mark:
 876 | Middle of the Linked List     | Easy :heavy_check_mark:
+2095 | Delete the Middle Node of a Linked List     | Medium :heavy_check_mark:
