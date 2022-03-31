@@ -11,3 +11,4 @@ Number | Title                         | Difficulty
 35  | Search Insert Position        | Easy :heavy_check_mark:
 557 | Reverse Words in a String III | Easy :heavy_check_mark:
 733 | Flood Fill                    | Easy :heavy_check_mark:
+977 | Squares of sorted array       | Easy :heavy_check_mark:
