@@ -24,3 +24,4 @@
 | 695    | Max Area of Island                      | Medium :heavy_check_mark: |
 | 200    | Number of Islands                       | Medium :heavy_check_mark: |
 | 189    | Rotate Array                            | Medium :heavy_check_mark: |
+| 215    | Kth Largest Element in an Array         | Medium :heavy_check_mark: |
