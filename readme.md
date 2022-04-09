@@ -25,3 +25,4 @@
 | 200    | Number of Islands                       | Medium :heavy_check_mark: |
 | 189    | Rotate Array                            | Medium :heavy_check_mark: |
 | 215    | Kth Largest Element in an Array         | Medium :heavy_check_mark: |
+| 347    | Top K Frequent Elements                 | Medium :heavy_check_mark: |
