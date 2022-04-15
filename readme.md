@@ -27,3 +27,4 @@
 | 189    | Rotate Array                            | Medium :heavy_check_mark: |
 | 215    | Kth Largest Element in an Array         | Medium :heavy_check_mark: |
 | 347    | Top K Frequent Elements                 | Medium :heavy_check_mark: |
+| 669    | Trim a Binary Search Tree               | Medium :heavy_check_mark: |
