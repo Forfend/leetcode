@@ -31,3 +31,4 @@
 | 347    | Top K Frequent Elements                 | Medium :heavy_check_mark: |
 | 669    | Trim a Binary Search Tree               | Medium :heavy_check_mark: |
 | 538    | Convert BST to Greater Tree             | Medium :heavy_check_mark: |
+| 128    | Longest Consecutive Sequence            | Medium :heavy_check_mark: |
