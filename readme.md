@@ -26,6 +26,7 @@
 | 108    | Convert Sorted Array to Binary Search Tree              | Easy :heavy_check_mark:   |
 | 121    | Best Time to Buy and Sell Stock                         | Easy :heavy_check_mark:   |
 | 94     | Binary Tree Inorder Traversal                           | Easy :heavy_check_mark:   |
+| 104    | Maximum Depth of Binary Tree                            | Easy :heavy_check_mark:   |
 | 2095   | Delete the Middle Node of a Linked List                 | Medium :heavy_check_mark: |
 | 695    | Max Area of Island                                      | Medium :heavy_check_mark: |
 | 200    | Number of Islands                                       | Medium :heavy_check_mark: |
