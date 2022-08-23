@@ -51,3 +51,4 @@
 | 107    | Binary Tree Level Order Traversal II                               | Medium :heavy_check_mark: |
 | 1338   | Reduce Array Size to The Half                                      | Medium :heavy_check_mark: |
 | 451    | Sort Characters By Frequency                                       | Medium :heavy_check_mark: |
+| 2      | Add Two Numbers                                                    | Medium :heavy_check_mark: |
