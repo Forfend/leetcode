@@ -11,7 +11,7 @@ public class PowerOfFour {
             return true;
         }
 
-        while (n %4 == 0) {
+        while (n % 4 == 0) {
             n /= 4;
         }
 
