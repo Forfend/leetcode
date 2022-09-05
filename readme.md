@@ -59,3 +59,4 @@
 | 2      | Add Two Numbers                                                    | Medium :heavy_check_mark: |
 | 3      | Longest Substring Without Repeating Characters                     | Medium :heavy_check_mark: |
 | 1448   | Count Good Nodes in Binary Tree                                    | Medium :heavy_check_mark: |
+| 429    | N-ary Tree Level Order Traversal                                   | Medium :heavy_check_mark: |
