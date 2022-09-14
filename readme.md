@@ -40,6 +40,7 @@
 | 637    | Average of Levels in Binary Tree                                   | Easy :heavy_check_mark:   |
 | 404    | Sum of Left Leaves                                                 | Easy :heavy_check_mark:   |
 | 111    | Minimum Depth of Binary Tree                                       | Easy :heavy_check_mark:   |
+| 1929   | Concatenation of Array                                             | Easy :heavy_check_mark:   |
 | 2095   | Delete the Middle Node of a Linked List                            | Medium :heavy_check_mark: |
 | 695    | Max Area of Island                                                 | Medium :heavy_check_mark: |
 | 200    | Number of Islands                                                  | Medium :heavy_check_mark: |
