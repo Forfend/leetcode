@@ -49,6 +49,7 @@
 | 20     | Valid Parentheses                                                  | Easy :heavy_check_mark:   |
 | 232    | Implement Queue using Stacks                                       | Easy :heavy_check_mark:   |
 | 225    | Implement Stack using Queues                                       | Easy :heavy_check_mark:   |
+| 933    | Number of Recent Calls                                             | Easy :heavy_check_mark:   |
 | 2095   | Delete the Middle Node of a Linked List                            | Medium :heavy_check_mark: |
 | 695    | Max Area of Island                                                 | Medium :heavy_check_mark: |
 | 200    | Number of Islands                                                  | Medium :heavy_check_mark: |
