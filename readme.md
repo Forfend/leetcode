@@ -52,6 +52,7 @@
 | 933    | Number of Recent Calls                                             | Easy :heavy_check_mark:   |
 | 21     | Merge Two Sorted Lists                                             | Easy :heavy_check_mark:   |
 | 141    | Linked List Cycle                                                  | Easy :heavy_check_mark:   |
+| 160    | Intersection of Two Linked Lists                                   | Easy :heavy_check_mark:   |
 | 2095   | Delete the Middle Node of a Linked List                            | Medium :heavy_check_mark: |
 | 695    | Max Area of Island                                                 | Medium :heavy_check_mark: |
 | 200    | Number of Islands                                                  | Medium :heavy_check_mark: |
