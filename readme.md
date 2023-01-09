@@ -75,3 +75,4 @@
 | 429    | N-ary Tree Level Order Traversal                                   | Medium :heavy_check_mark: |
 | 155    | Min Stack                                                          | Medium :heavy_check_mark: |
 | 142    | Linked List Cycle II                                               | Medium :heavy_check_mark: |
+| 287    | Find the Duplicate Number                                          | Medium :heavy_check_mark: |
