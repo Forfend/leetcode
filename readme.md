@@ -78,3 +78,4 @@
 | 142    | Linked List Cycle II                                               | Medium :heavy_check_mark: |
 | 287    | Find the Duplicate Number                                          | Medium :heavy_check_mark: |
 | 143    | Reorder List                                                       | Medium :heavy_check_mark: |
+| 707    | Design Linked List                                                 | Medium :heavy_check_mark: |
