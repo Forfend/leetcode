@@ -83,3 +83,4 @@
 | 143    | Reorder List                                                       | Medium :heavy_check_mark: |
 | 707    | Design Linked List                                                 | Medium :heavy_check_mark: |
 | 1472   | Design Browser History                                             | Medium :heavy_check_mark: |
+| 912    | Sort an Array                                                      | Medium :heavy_check_mark: |
