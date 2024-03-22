@@ -55,10 +55,4 @@ public class KthLargestElementInArray {
         }
     }
 
-    public static void main(String[] args) {
-        KthLargestElementInArray kthLargestElementInArray = new KthLargestElementInArray();
-        int[] nums = {3, 7, 1, 5, 6, 4};
-        int k = 2;
-        System.out.println(kthLargestElementInArray.findKthLargestQuickSelect(nums, k));
-    }
 }
