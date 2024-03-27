@@ -87,4 +87,5 @@
 | 912    | Sort an Array                                                      | Medium :heavy_check_mark: |
 | 75     | Sort Colors                                                        | Medium :heavy_check_mark: |
 | 74     | Search a 2D Matrix                                                 | Medium :heavy_check_mark: |
+| 875    | Koko Eating Bananas                                                | Medium :heavy_check_mark: |
 | 23     | Merge k Sorted Lists                                               | Hard :heavy_check_mark:   |
