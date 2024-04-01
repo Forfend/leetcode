@@ -13,7 +13,7 @@ public class KokoEatBananas {
 
         while (left <= right) {
             int k = left + (right - left) / 2;
-            if ((catEat(piles, h, k))) {
+            if (canEat(piles, h, k)) {
                 right = k - 1;
                 result = Math.min(result, k);
             } else {
@@ -24,7 +24,7 @@ public class KokoEatBananas {
         return result;
     }
 
-    private boolean catEat(int[] piles, int h, int k) {
+    private boolean canEat(int[] piles, int h, int k) {
         int sumHours = 0;
         for (int pile : piles) {
             sumHours += Math.ceil((double) pile / k);
