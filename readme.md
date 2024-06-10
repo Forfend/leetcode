@@ -90,4 +90,5 @@
 | 875    | Koko Eating Bananas                                                | Medium :heavy_check_mark: |
 | 701    | Insert into a Binary Search Tree                                   | Medium :heavy_check_mark: |
 | 450    | Delete Node in a BST                                               | Medium :heavy_check_mark: |
+| 199    | Binary Tree Right Side View                                        | Medium :heavy_check_mark: |
 | 23     | Merge k Sorted Lists                                               | Hard :heavy_check_mark:   |
