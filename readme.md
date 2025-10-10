@@ -97,4 +97,5 @@
 | 167    | Two Sum II - Input Array Is Sorted                                 | Medium :heavy_check_mark: |
 | 15     | 3Sum                                                               | Medium :heavy_check_mark: |
 | 11     | Container With Most Water                                          | Medium :heavy_check_mark: |
+| 2938   | Separate Black and White Balls                                     | Medium :heavy_check_mark: |
 | 23     | Merge k Sorted Lists                                               | Hard :heavy_check_mark:   |
